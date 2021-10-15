@@ -3,6 +3,8 @@
 天狼星 基于 VUE 框架的模拟Windows 桌面效果，后台管理UI。
 [预览](https://ispace-code.gitee.io/dogstar-ui)
 
+20220113 加入登陆界面，加入可配置窗口最大化限制。定制不可拖动大小的窗口。
+
 欢迎大家加入共同建设。
 ![设置壁纸](https://images.gitee.com/uploads/images/2021/1028/161641_31bc2096_15710.png "1.png")
 ![加入模态对话框和抽屉](https://images.gitee.com/uploads/images/2020/0727/092359_d8174fd6_15710.png "捕获.PNG")
